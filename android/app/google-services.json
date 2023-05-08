@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1025550067794",
+    "project_id": "clue-53d50",
+    "storage_bucket": "clue-53d50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025550067794:android:1177ca8d06d1ea34b1178b",
+        "android_client_info": {
+          "package_name": "harsh.dev.clue"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025550067794-8d3l0uh47nbd9ri6nis4lk034sm647l0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzG5S2Be-8PJnPHU9wlU4nLHRT5qM4fr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025550067794-8d3l0uh47nbd9ri6nis4lk034sm647l0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
